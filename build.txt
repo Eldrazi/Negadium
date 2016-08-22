@@ -1,3 +1,0 @@
-﻿author = Team Negadium
-version = v0.1
-displayName = Negadium
